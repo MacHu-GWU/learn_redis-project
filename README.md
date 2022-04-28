@@ -1,2 +1,0 @@
-# learn_redis-project
- 
